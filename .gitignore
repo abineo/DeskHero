@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/DeskHero/[Ll]ibrary/
-/DeskHero/[Tt]emp/
-/DeskHero/[Oo]bj/
-/DeskHero/[Bb]uild/
-/DeskHero/[Bb]uilds/
-/DeskHero/[Ll]ogs/
-/DeskHero/[Uu]ser[Ss]ettings/
+DeskHero/[Ll]ibrary/
+DeskHero/[Tt]emp/
+DeskHero/[Oo]bj/
+DeskHero/[Bb]uild/
+DeskHero/[Bb]uilds/
+DeskHero/[Ll]ogs/
+DeskHero/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
